@@ -1,2 +1,2 @@
 # test-301-wed
-Test repo for Wednesday Lab
+Test repo for Wednesday Lab.
